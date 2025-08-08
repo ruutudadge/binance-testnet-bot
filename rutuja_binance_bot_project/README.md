@@ -1,4 +1,4 @@
-# [Your Name] - Binance Futures Order Bot
+# Rutuja_Dadge - Binance Futures Order Bot
 
 ## Overview
 This project provides a CLI-based trading bot skeleton for Binance USDT-M Futures supporting Market and Limit orders, and offering advanced strategies like OCO (take-profit + stop-loss pair) and TWAP (time-weighted average price). It includes input validation, structured logging, and example usage.
